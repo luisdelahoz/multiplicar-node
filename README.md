@@ -2,7 +2,7 @@
 
 Esta es una aplicación para generar archivos de tabla de multiplicar o mostrar un listado de ellas por consola
 
-Ejecutar este comando
+Recuerden instalar los paquetes de NodeJS
 
 ```
 npm install
